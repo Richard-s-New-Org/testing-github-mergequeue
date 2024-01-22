@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/Richard-s-New-Org/testing-github-mergequeue/issues"
   },
-  "homepage": "https://github.com/Richard-s-New-Org/testing-github-mergequeue#readme"
+  "homepage": "https://github.com/Richard-s-New-Org/testing-github-mergequeue#readme",
+  "dependencies": {
+    "prettier": "^3.2.4",
+    "typescript": "^5.3.3"
+  }
 }
