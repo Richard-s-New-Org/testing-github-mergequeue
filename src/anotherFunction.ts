@@ -1,3 +1,3 @@
-export default function aNewFunction() {
-  throw new Error('Not implemented');
+export default function anotherFunction(n: number) {
+  return `The number is: ${n}`;
 }
